@@ -1,7 +1,6 @@
 {
   "name": "dealers_choice_sequelize",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.3",
@@ -12,9 +11,18 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbasi08/dealers_choice_sequelize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abbasi08/dealers_choice_sequelize/issues"
+  },
+  "homepage": "https://github.com/abbasi08/dealers_choice_sequelize#readme",
+  "description": ""
 }
